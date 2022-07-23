@@ -1,8 +1,8 @@
 
-package javaapplication2;
+//package javaapplication2;
 import java.util.*;
 
-public class Main {
+public class firstLeetCodeProblem {
 
     
     public static void main(String[] args) {
